@@ -1,0 +1,12 @@
+D:\mon hoc\window\btvntuan3\btvntuan3\bin\Debug\btvntuan3.exe.config
+D:\mon hoc\window\btvntuan3\btvntuan3\bin\Debug\btvntuan3.exe
+D:\mon hoc\window\btvntuan3\btvntuan3\bin\Debug\btvntuan3.pdb
+D:\mon hoc\window\btvntuan3\btvntuan3\obj\Debug\btvntuan3.csproj.AssemblyReference.cache
+D:\mon hoc\window\btvntuan3\btvntuan3\obj\Debug\btvntuan3.csproj.SuggestedBindingRedirects.cache
+D:\mon hoc\window\btvntuan3\btvntuan3\obj\Debug\btvntuan3.frmHocSinh.resources
+D:\mon hoc\window\btvntuan3\btvntuan3\obj\Debug\btvntuan3.Properties.Resources.resources
+D:\mon hoc\window\btvntuan3\btvntuan3\obj\Debug\btvntuan3.csproj.GenerateResource.cache
+D:\mon hoc\window\btvntuan3\btvntuan3\obj\Debug\btvntuan3.csproj.CoreCompileInputs.cache
+D:\mon hoc\window\btvntuan3\btvntuan3\obj\Debug\btvntuan3.exe
+D:\mon hoc\window\btvntuan3\btvntuan3\obj\Debug\btvntuan3.pdb
+D:\mon hoc\window\btvntuan3\btvntuan3\obj\Debug\btvntuan3.frmGiaoVien.resources
